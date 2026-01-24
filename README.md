@@ -9,7 +9,7 @@
 **AltaySec Akademi**, sıfırdan başlayıp pentest (penetrasyon testi) temellerini sistemli şekilde öğrenebileceğiniz **ücretsiz** bir siber güvenlik eğitim platformudur.  
 Resmi site: https://akademi.altaysec.com.tr
 
-## Hızlı Linkler (Resmi)
+## Hızlı Linkler 
 - Akademi (Müfredat / Modüller): https://akademi.altaysec.com.tr/akademi.html
 - Blog: https://akademi.altaysec.com.tr/blog.html
 - Arcade / Oyunlar: https://akademi.altaysec.com.tr/arcade.html
@@ -18,12 +18,6 @@ Resmi site: https://akademi.altaysec.com.tr
 - Site Haritası: https://akademi.altaysec.com.tr/sitemap.xml
 - Robots: https://akademi.altaysec.com.tr/robots.txt
 
-## Sertifika Doğrulama
-Sertifika doğrulama bağlantısı formatı:
-
-- https://akademi.altaysec.com.tr/verify?id=KNT-XXXX-XXXXX
-
-> Not: Doğrulama sayfası web üzerinde çalışır. Sertifika kodu cihazda kayıtlıysa (aynı cihaz) veya hesap verisiyle eşleşiyorsa doğrulama yapılır.
 
 ## Bu Proje Ne Sunar?
 - Türkçe, pratik odaklı pentest eğitimi (başlangıçtan ileriye)
@@ -32,7 +26,7 @@ Sertifika doğrulama bağlantısı formatı:
 - Interaktif içerikler ve senaryolar
 - Ücretsiz tamamlama sertifikası
 
-## Müfredat (Özet)
+## Müfredat 
 AltaySec Akademi müfredatı, gerçek dünyadaki pentest akışına uygun bir sırayla ilerler. Öne çıkan başlıklar:
 
 - Keşif & OSINT (pasif/aktif keşif, saldırı yüzeyi)
@@ -44,7 +38,7 @@ AltaySec Akademi müfredatı, gerçek dünyadaki pentest akışına uygun bir s�
 
 Güncel modül listesi için: https://akademi.altaysec.com.tr/akademi.html
 
-## SEO / Paylaşım için Kısa Tanım (Kopyala-Yapıştır)
+## SEO
 AltaySec Akademi: Ücretsiz Türkçe siber güvenlik ve pentest eğitimi. 11 modül, 250+ quiz, interaktif oyunlar ve ücretsiz sertifika ile sıfırdan pentest öğren.
 
 ## Backlink ve Referans
@@ -65,8 +59,6 @@ Eğer katkı vermek veya iş birliği yapmak isterseniz:
 ## Yasal ve Etik Uyarı
 Bu içerikler eğitim amaçlıdır. Öğretilen teknikleri **yalnızca yazılı izin aldığınız** sistemlerde ve yasal çerçevede kullanın.
 
-## Repository Topics (GitHub’da “Topics” alanına ekleyin)
-siber-guvenlik, cybersecurity, pentest, penetration-testing, turkish, owasp, web-security, osint, ethical-hacking, security-training, hacking-games, ctf
 
 ---
 Resmi site: https://akademi.altaysec.com.tr
