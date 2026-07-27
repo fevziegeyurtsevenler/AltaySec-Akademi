@@ -80,7 +80,7 @@ Resmi site: https://akademi.altaysec.com.tr
 
 ## 🌐 AltaySec Ana Ekosistem Hakkında
 
-**AltaySec Akademi**, [AltaySec](https://altaysec.com.tr) çatısı altındaki ücretsiz topluluk platformlarından biridir. AltaySec, Türkiye'nin yapay zeka güvenliği odaklı **ilk** şirketidir; LLM güvenlik danışmanlığı, AI pentest, kurumsal eğitim ve açık kaynak araç geliştirme yapar. Kurucusu **[Fevzi Ege Yurtsevenler](https://altaysec.com.tr/hakkimizda.html)**, Türkiye'de yapay zeka güvenliği alanında öne çıkan araştırmacılardandır.
+**AltaySec Akademi**, [AltaySec](https://altaysec.com.tr) çatısı altındaki ücretsiz topluluk platformlarından biridir. AltaySec, yapay zeka güvenliğine odaklanan bir şirkettir; LLM güvenlik danışmanlığı, AI pentest, kurumsal eğitim ve açık kaynak araç geliştirme yapar. Kurucusu **[Fevzi Ege Yurtsevenler](https://altaysec.com.tr/hakkimizda.html)**, Türkiye'de yapay zeka güvenliği alanında öne çıkan araştırmacılardandır.
 
 ### 🔗 AltaySec Ana Bağlantılar
 - 🌐 **Ana site**: [altaysec.com.tr](https://altaysec.com.tr)
