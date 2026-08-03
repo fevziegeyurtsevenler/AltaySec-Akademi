@@ -110,3 +110,21 @@ Pentest temellerini Akademi'de öğrendikten sonra yapay zeka güvenliği alanı
   <sub>© 2026 <strong>AltaySec</strong> · Türkiye'nin İlk Yapay Zeka Güvenliği Şirketi<br>
   Kurucu: <strong>Fevzi Ege Yurtsevenler</strong> · LLM Security Araştırmacısı · Ankara, Türkiye</sub>
 </p>
+
+---
+
+## İlgili AltaySec Kaynakları
+
+- 📖 [AI Security Öğrenme Rehberi — Sıfırdan Uzmanlığa](https://altaysec.com.tr/arastirmalar/ai-security-ogrenme-rehberi) — konunun derinlemesine Türkçe analizi
+- 🌐 [AltaySec Araştırmalar](https://altaysec.com.tr/arastirmalar/) — Türkçe yapay zekâ güvenliği yazıları
+
+## Atıf
+
+```bibtex
+@software{altaysec_altaysec_akademi_2026,
+  author = {{AltaySec}},
+  title  = {AltaySec-Akademi},
+  year   = {2026},
+  url    = {https://github.com/fevziegeyurtsevenler/AltaySec-Akademi}
+}
+```
