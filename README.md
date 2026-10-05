@@ -1,94 +1,118 @@
 <p align="center">
-  <a href="https://altaysec.com.tr">
-    <img src="https://altaysec.com.tr/logo.jpg" alt="AltaySec — Türkiye'nin İlk Yapay Zeka Güvenliği Şirketi" width="120">
+  <a href="https://akademi.altaysec.com.tr">
+    <img src="https://altaysec.com.tr/logo.jpg" alt="AltaySec Akademi" width="120">
   </a>
 </p>
 
 <p align="center">
-  <strong><a href="https://altaysec.com.tr">AltaySec</a></strong> — Türkiye'nin İlk Yapay Zeka Güvenliği Şirketi<br>
-  <sub>Kurucu: <a href="https://altaysec.com.tr/hakkimizda.html">Fevzi Ege Yurtsevenler</a> · Yapay Zeka Güvenliği Araştırmacısı</sub>
+  <strong><a href="https://akademi.altaysec.com.tr">AltaySec Akademi</a></strong>: Türkçe, ücretsiz ve tarayıcıda çalışan siber güvenlik eğitim platformu<br>
+  <sub><a href="https://altaysec.com.tr">AltaySec</a> · Kurucu: <a href="https://altaysec.com.tr/hakkimizda.html">Fevzi Ege Yurtsevenler</a></sub>
 </p>
 
-![Status](https://img.shields.io/badge/status-active-success)
-![Free](https://img.shields.io/badge/price-free-brightgreen)
-![Language](https://img.shields.io/badge/language-Turkish-red)
-![Education](https://img.shields.io/badge/type-education-blue)
-![CTF](https://img.shields.io/badge/CTF-enabled-purple)
+![Durum](https://img.shields.io/badge/durum-yayında-success)
+![Ücretsiz](https://img.shields.io/badge/ücret-ücretsiz-brightgreen)
+![Dil](https://img.shields.io/badge/dil-Türkçe-red)
+![Kurulum](https://img.shields.io/badge/kurulum-gerekmez-blue)
+![CTF](https://img.shields.io/badge/CTF-205_soru-purple)
 
 ---
 
-# AltaySec Akademi: Ücretsiz Siber Güvenlik Akademisi (Türkçe)
+# AltaySec Akademi: Ücretsiz Türkçe Siber Güvenlik Eğitimi
 
-Resmi site: https://akademi.altaysec.com.tr
+**Resmî site: https://akademi.altaysec.com.tr**
 
-## Ne Sunuyor?
+AltaySec Akademi, siber güvenliği sıfırdan uzmanlığa kadar Türkçe ve tamamen ücretsiz öğreten bir platformdur.
+Hiçbir şey kurmazsın: dersi okur, aynı sayfada tarayıcıda çalışan labı ve terminal görevini çözersin. Yolların sonunda
+sınav vardır, geçenler doğrulanabilir bir belge alır.
 
-AltaySec Akademi, siber güvenliği sıfırdan uzmanlığa kadar Türkçe ve tamamen ücretsiz öğreten bir akademidir. Derslerden laboratuvarlara, sınavlardan kariyer hazırlığına her şeyi tek yerde toplar. Her ders önce anlatır, sonra uygulamalı bir etkinlikle pekiştirir. Yolların sonunda sınav vardır; geçenler doğrulanabilir sertifika alır.
+- **12 öğrenme yolu, 313 ders**
+- **123 lab, 107 saha görevi** (tarayıcıda çalışan kurgu terminal)
+- **CTF arenası: 205 soru**
+- **8 siber güvenlik oyunu ve 4 hikâye oyunu**
+- **9 sertifika hazırlık soru bankası** (resmî sınav sorusu değildir)
+
+## Siber güvenliğe nereden başlamalıyım?
+
+Hiç bilgin yoksa **Siber Güvenlik Temelleri** yolundan başla: ağ, işletim sistemi, Linux komut satırı ve temel
+saldırı türleri. Her dersin sonunda uygulamalı bir etkinlik var. Temelleri bitirince ilgine göre Kırmızı Takım,
+Mavi Takım, Web Güvenliği ya da AI Güvenliği yoluna geç. Pratik için saha görevleri ve CTF arenası her seviyeye açık.
+
+Başlangıç sayfası: https://akademi.altaysec.com.tr/yollar/temeller
 
 ## 12 Öğrenme Yolu
 
-1. Siber Güvenlik Temelleri
-2. AI Güvenliği
-3. Kırmızı Takım
-4. Mavi Takım
-5. Web Uygulama Güvenliği
-6. Ağ Güvenliği
-7. Güvenli Yazılım Geliştirme
-8. Adli Bilişim
-9. Bulut Güvenliği
-10. Tersine Mühendislik
-11. OSINT
-12. Yönetişim, Risk, Uyum ve Mevzuat
+1. [Siber Güvenlik Temelleri](https://akademi.altaysec.com.tr/yollar/temeller)
+2. [AI Güvenliği](https://akademi.altaysec.com.tr/yollar/ai-guvenligi)
+3. [Kırmızı Takım](https://akademi.altaysec.com.tr/yollar/red)
+4. [Mavi Takım](https://akademi.altaysec.com.tr/yollar/blue)
+5. [Web Uygulama Güvenliği](https://akademi.altaysec.com.tr/yollar/web-guvenligi)
+6. [Ağ Güvenliği](https://akademi.altaysec.com.tr/yollar/ag-guvenligi)
+7. [Güvenli Yazılım Geliştirme](https://akademi.altaysec.com.tr/yollar/guvenli-kod)
+8. [Adli Bilişim](https://akademi.altaysec.com.tr/yollar/adli-bilisim)
+9. [Bulut Güvenliği](https://akademi.altaysec.com.tr/yollar/bulut)
+10. [Tersine Mühendislik](https://akademi.altaysec.com.tr/yollar/tersine)
+11. [OSINT](https://akademi.altaysec.com.tr/yollar/osint)
+12. [Yönetişim, Risk, Uyum ve Mevzuat](https://akademi.altaysec.com.tr/yollar/grc-mevzuat)
 
-Tüm yollar: https://akademi.altaysec.com.tr/yollar
+## Uygulama
 
-## Öne Çıkan Bölümler
-
-- [Saha görevleri](https://akademi.altaysec.com.tr/saha): tarayıcıda çalışan kurgu terminal, 100 görev
-- [Laboratuvarlar](https://akademi.altaysec.com.tr/laboratuvar)
-- [SOC vardiya simülasyonu](https://akademi.altaysec.com.tr/nobet)
-- [İstihbarat masası](https://akademi.altaysec.com.tr/istihbarat): 13 vaka
+- [Saha görevleri](https://akademi.altaysec.com.tr/saha): tarayıcıda çalışan kurgu terminal, 107 görev
+- [Laboratuvarlar](https://akademi.altaysec.com.tr/laboratuvar): 123 lab
 - [CTF arenası](https://akademi.altaysec.com.tr/arena): 205 soru
+- [SOC Vardiya](https://akademi.altaysec.com.tr/nobet): alarm kuyruğunda analist simülasyonu
+- [Kriz Masası](https://akademi.altaysec.com.tr/kriz-masasi): olay anında karar simülasyonu
+- [İstihbarat masası](https://akademi.altaysec.com.tr/istihbarat): tehdit istihbaratı vakaları
+- [Günün olayı](https://akademi.altaysec.com.tr/gunun-olayi)
 - [AI kırmızı takım menzili](https://akademi.altaysec.com.tr/menzil)
-- [Sertifika hazırlık soru bankaları](https://akademi.altaysec.com.tr/sertifika-hazirlik): CompTIA Security+, Network+, CySA+, ISC2 CC, eJPT, CEH
-- [Kariyer haritası](https://akademi.altaysec.com.tr/kariyer)
-- [Mülakat hazırlığı](https://akademi.altaysec.com.tr/mulakat)
-- [Kopya kâğıtları](https://akademi.altaysec.com.tr/kopya-kagidi)
-- [CTF write-up'ları](https://akademi.altaysec.com.tr/yazilar)
-- [Blog](https://akademi.altaysec.com.tr/blog)
-- [Sözlük](https://akademi.altaysec.com.tr/sozluk)
-- [Quiz](https://akademi.altaysec.com.tr/quiz)
-- [Sertifika doğrulama](https://akademi.altaysec.com.tr/dogrula)
 
-## Sayılar
+## Oyunlar
 
-- 12 öğrenme yolu, 312 ders, 101 laboratuvar, 100 saha görevi
-- 814 soruluk sınav havuzu, 12 yol sınavı, doğrulanabilir sertifika
-- 6 sertifika hazırlık bankası (resmî sınav sorusu değildir)
-- CTF arenası: 205 soru
-- Kayıt ücretsiz, e-posta ya da GitHub/Google ile
+Hepsi tarayıcıda, ücretsiz: https://akademi.altaysec.com.tr/oyunlar
 
-## Nasıl Başlanır
+- **Siberle:** günün siber güvenlik kelimesi (Wordle tarzı)
+- **Olta:** oltalama e-postasını yakala
+- **CISO Koltuğu:** güvenlik yöneticisi olarak karar ver
+- **Bilgi Yarışı:** rakiplerinle aynı anda cevapladığın canlı bilgi yarışması
+- **Parola:** şifrecinin tek kelimelik ipucundan doğru kartları bul (takım oyunu)
+- **Köstebek:** masadaki köstebeği bul (çok oyunculu sosyal çıkarım oyunu)
+- **Daktilo:** kayıttan rapora sekiz aşamalı yazma koşusu
+- **Ring:** rakibinle aynı olayda kanıt ve flag yarışı (bire bir ya da takım)
+- **Root Protocol:** Türkçe terminal hacking oyunu
 
-1. https://akademi.altaysec.com.tr adresinden e-posta ya da GitHub/Google ile kayıt ol.
-2. 12 yoldan birini seç; yeni başlıyorsan Siber Güvenlik Temelleri'nden başla.
-3. Dersleri sırayla izle, her dersin sonundaki etkinliği tamamla.
-4. Yol sınavına gir, geçersen sertifikanı al.
-5. Saha görevleri, laboratuvarlar ve CTF arenasıyla pratik yap.
+[Hikâye oyunları](https://akademi.altaysec.com.tr/oyunlar/hikaye): Zayıf Halka (sosyal mühendislik), 42. Kat, Sızıntı, Çift Hat.
 
-## Katkı ve İletişim
+## Kariyer ve kaynaklar
 
-Katkı vermek veya iş birliği yapmak isterseniz:
-- İçerik önerisi / hata bildirimi / yeni yol fikri
-- Blog yazısı / misafir içerik
+- [Sertifika hazırlık soru bankaları](https://akademi.altaysec.com.tr/sertifika-hazirlik): Security+, Network+, CySA+, PenTest+, ISC2 CC, CISSP, eJPT, CEH, OSCP
+- [Kariyer haritası](https://akademi.altaysec.com.tr/kariyer) · [Mülakat hazırlığı](https://akademi.altaysec.com.tr/mulakat)
+- [Blog](https://akademi.altaysec.com.tr/blog) · [Write-up'lar](https://akademi.altaysec.com.tr/yazilar)
+- [Sözlük](https://akademi.altaysec.com.tr/sozluk) · [Kopya kâğıtları](https://akademi.altaysec.com.tr/kopya-kagidi) · [Testler](https://akademi.altaysec.com.tr/quiz)
+- [Belge doğrulama](https://akademi.altaysec.com.tr/dogrula)
+
+## Sık sorulan sorular
+
+**Ücretli mi?** Hayır. Dersler, lablar, oyunlar ve sınavlar ücretsiz.
+
+**Bir şey kurmam gerekiyor mu?** Hayır. Her şey tarayıcıda çalışır; telefondan da girilir.
+
+**Kod bilmeden başlanır mı?** Evet. Temeller yolu kod bilgisi istemez; komut satırı ve gereken temel bilgiler yol içinde öğretilir.
+
+**Belge veriyor mu?** Yol sınavını geçenler doğrulanabilir bir belge alır. Belge kodu herkes tarafından doğrulanabilir.
+
+**Kayıt nasıl?** E-posta, GitHub ya da Google ile. Hesap açmadan da dersleri deneyebilirsin.
+
+## Katkı ve iletişim
+
+- İçerik önerisi, hata bildirimi, yeni yol fikri
+- [Blog yazısı ya da write-up gönder](https://akademi.altaysec.com.tr/yazilar/yeni): onaylanınca adınla yayına girer
 - Üniversite toplulukları ve CTF ekipleriyle ortak etkinlik
 
 İletişim: info@altaysec.com.tr
 
 ## Lisans
 
-Bu içerik [CC BY 4.0](LICENSE) lisansı altındadır.
+Bu depodaki metinler [CC BY 4.0](LICENSE) lisansı altındadır.
 
 ---
 
-Resmi site: https://akademi.altaysec.com.tr
+**Resmî site: https://akademi.altaysec.com.tr**
